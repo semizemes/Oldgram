@@ -31,3 +31,146 @@ header {
     top: 16px;
     left: 325px;
 }
+
+
+
+main {
+    position: relative;
+    background-color: #FFF;
+    width: 375px;
+    margin: auto;
+    border-bottom: 25px solid #EDEDED;
+}
+
+article {
+    position: relative;
+    height: 530px;
+
+}
+
+.post-avatar {
+    width: 34px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+h1 {
+    margin: 0;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 307px;
+    position: absolute;
+    height: 16px;
+    opacity: 1;
+    top: 11px;
+    left: 51px;
+}
+
+.post-location {
+    margin: 0;
+    position: absolute;
+    width: 307px;
+    height: 15px;
+    opacity: 1;
+    top: 27px;
+    left: 51px;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.post-img {
+    margin: 0;
+    position: absolute;
+    width: 375px;
+    height: 375px;
+    opacity: 1;
+    top: 50px;
+}
+
+ul,
+action-img {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.icon-heart {
+    margin: 0;
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    opacity: 1;
+    top: 440px;
+    left: 10px;
+    border-width: 2.33px;
+}
+
+.icon-comment {
+    position: absolute;
+    margin: 0;
+    width: 23px;
+    height: 23px;
+    opacity: 1;
+    top: 440px;
+    left: 45px;
+}
+
+.icon-dm {
+    margin: 0;
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    opacity: 1;
+    top: 440px;
+    left: 80px;
+    border-width: 2.33px;
+    border-radius: 0.58px;
+}
+
+h2 {
+    margin: 0;
+    position: absolute;
+    width: 343px;
+    height: 16px;
+    opacity: 1;
+    top: 475px;
+    left: 13px;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.comment-text {
+    margin: 0;
+    position: absolute;
+    width: 343px;
+    height: 16px;
+    opacity: 1;
+    top: 500px;
+    left: 13px;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.comment-username {
+    margin: 0;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
