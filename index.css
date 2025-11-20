@@ -1,0 +1,33 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+}
+
+header {
+    position: relative;
+    background-color: #FFF;
+    width: 375px;
+    height: 67px;
+    border-bottom: 1px solid #C6C6C6;
+    margin: auto;
+}
+
+.logo {
+    width: 127px;
+    position: absolute;
+    top: 2px;
+    left: 15px;
+}
+
+.user-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    position: absolute;
+    top: 16px;
+    left: 325px;
+}
