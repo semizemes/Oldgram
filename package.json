@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01kgac",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0cv/s0qsusunbo/head",
+  "name": "Oldgram",
+  "description": "Daily learning tasks",
   "scripts": {
     "start": "vite",
     "dev": "vite",
